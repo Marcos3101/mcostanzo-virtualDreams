@@ -86,12 +86,12 @@
    Las estructuras de datos JSON (JavaScript Object Notation) y XML (Extensible Markup Language) son formatos ligeros de intercambio de datos, que resulta sencillo de leer y escribir para los programadores y simple de interpretar y generar para las máquinas.
 
    Estructura posible JSON:
-	 ```
+	 ```json
    {
       "Usuario": {
         "Nombre": "Marcos",
         "Apellido": "Costanzo",
-    		"Edad": "22"
+    		"Edad": "22",
     		"Fecha de nacimiento": {
     			"Dia": 31,
     			"Mes": 1,
@@ -101,7 +101,7 @@
    }
 	 ```
    Estructura posible XML:
-	 ```
+	 ```xml
    <usuario>
     	<nombre>Marcos</nombre>
     	<apellido>Costanzo</apellido>
