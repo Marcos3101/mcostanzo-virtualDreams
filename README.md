@@ -1,6 +1,4 @@
 ## Ejercicio 2
-	![](GET1.JPG)
-
 
 1. ¿Qué es un servidor HTTP?
 
